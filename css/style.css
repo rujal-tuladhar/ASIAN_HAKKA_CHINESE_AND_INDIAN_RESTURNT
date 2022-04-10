@@ -327,9 +327,9 @@ section{
    height: 100%;
    width: 100%;
    background-image: url('../img/home-bg.jpg');
-   background-attachment: fixed;
+   
    background-size: cover;
-   background-position: center;
+   background-position: fixed;
    z-index: -2;
    animation: zoomInOut 20s ease infinite;
 }
