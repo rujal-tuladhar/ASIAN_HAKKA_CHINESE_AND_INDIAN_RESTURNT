@@ -677,6 +677,14 @@ section{
     .about-img{
         width: 100%;
     }
+    
+
+    .home-section .home-bg{
+
+       background-size: auto;
+    }
+
+
     .menu-item:nth-last-of-type(2):after{
        border-bottom: 2px dashed var(--dark-light);
     }
